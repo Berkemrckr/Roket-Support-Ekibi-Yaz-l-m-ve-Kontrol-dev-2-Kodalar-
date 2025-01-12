@@ -1,1 +1,1 @@
-# Roket-Support-Ekibi-Yaz-l-m-ve-Kontrol-dev-2-Kodalar-
+RoketSupportEkibiAiyonikOdev-2.Kodlar
